@@ -9,12 +9,15 @@ layout: default
 
 ## Libraries
 
+- [buffer](https://github.com/PorkLib/buffer) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/buffer/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/buffer)
 - [crypto](https://github.com/PorkLib/crypto) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/crypto/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/crypto)
+- [db](https://github.com/PorkLib/db) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/db/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/db)
 - [encoding](https://github.com/PorkLib/encoding) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/encoding/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/encoding)
 - [hash](https://github.com/PorkLib/hash) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/hash/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/hash)
 - [http](https://github.com/PorkLib/http) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/http/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/http)
 - [math](https://github.com/PorkLib/math) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/math/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/math)
 - [nbt](https://github.com/PorkLib/nbt) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/nbt/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/nbt)
 - [network](https://github.com/PorkLib/network) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/network/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/network)
+- [primitive](https://github.com/PorkLib/primitive) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/primitive/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/primitive)
 
 ### [GitHub](https://github.com/PorkLib)
