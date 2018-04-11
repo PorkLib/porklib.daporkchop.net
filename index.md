@@ -18,6 +18,7 @@ layout: default
 - [math](https://github.com/PorkLib/math) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/math/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/math)
 - [nbt](https://github.com/PorkLib/nbt) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/nbt/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/nbt)
 - [network](https://github.com/PorkLib/network) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/network/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/network)
+- [noise](https://github.com/PorkLib/noise) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/network/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/noise)
 - [primitive](https://github.com/PorkLib/primitive) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/primitive/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/primitive)
 
 ### [GitHub](https://github.com/PorkLib)
