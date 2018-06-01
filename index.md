@@ -9,7 +9,7 @@ layout: default
 
 ## Libraries
 
-- [buffer](https://github.com/PorkLib/buffer) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/buffer/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/buffer)
+- [binary](https://github.com/PorkLib/binary) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/binary/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/binary)
 - [crypto](https://github.com/PorkLib/crypto) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/crypto/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/crypto)
 - [db](https://github.com/PorkLib/db) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/db/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/db)
 - [encoding](https://github.com/PorkLib/encoding) [![Build Status](http://jenkins.daporkchop.net/job/PorkLib/job/encoding/badge/icon)](http://jenkins.daporkchop.net/job/PorkLib/job/encoding)
